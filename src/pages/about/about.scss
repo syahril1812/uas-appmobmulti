@@ -1,0 +1,26 @@
+page-about {
+    .link{
+        color: blue;
+    }
+    .tentang-saya ul li{
+        font-size: 15px;
+        color: blue;
+    }
+    .tentang-saya p{
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .isi-konten p{
+        font-size: 15px;
+    }
+    .tentang-saya img{
+        height: 200px;
+        width: 200px;
+        align-items: center;
+        display: block;
+        margin: auto;
+    }
+    ion-title{
+        text-align: center;
+    }
+}
